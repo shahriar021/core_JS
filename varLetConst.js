@@ -35,3 +35,4 @@ console.log(letVariable);
 //in const var we cant redefine the variable and reassign the variable-----------------------
 //but in let we can reassign the variable but cant redefine the variable------------
 //but in var we can redefine the variable and reassign the variable-----------------------
+
